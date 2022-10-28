@@ -1,3 +1,3 @@
 # WorldTour
 ## Tour organization
-# TO ITALY
+TO ITALY
