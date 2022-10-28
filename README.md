@@ -1,4 +1,4 @@
 # WorldTour
 ## Tour organization to Italy
 
-https://sevda-all.github.io/worldTour/
+https://sevda-all.github.io/WorldTour/
