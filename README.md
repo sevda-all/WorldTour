@@ -1,3 +1,2 @@
 # WorldTour
-Tour organization br
-TO ITALY
+## Tour organization to Italy
